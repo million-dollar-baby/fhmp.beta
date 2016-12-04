@@ -2746,7 +2746,7 @@
 			}
 
 			.tiles article:after {
-				background-color: rgba(3, 3, 5, 0.25);
+				background-color: rgba(3, 3, 5, 0.01);
 				content: '';
 				display: block;
 				height: 100%;
