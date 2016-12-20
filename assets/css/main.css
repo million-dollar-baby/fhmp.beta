@@ -2947,7 +2947,7 @@
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+				background-color: #000;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
