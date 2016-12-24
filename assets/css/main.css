@@ -16,6 +16,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+        text-align: justify;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -3540,7 +3541,7 @@
 /* Main */
 
 	#main {
-		background-color: rgba(41, 38, 57, 0.18);
+        background-color: #000;
 	}
 
 		#main > * {
