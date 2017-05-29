@@ -1643,7 +1643,7 @@
 	body, input, select, textarea {
         color: #ffc107;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 17pt;
+		font-size: 15pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
 		line-height: 1.65;
@@ -2942,6 +2942,11 @@
 					max-width: 100%;
 					width: 65em;
 				}
+
+.p {
+    font-size:14px;}
+
+
 
 			.spotlights > section:nth-child(2n) {
 				-moz-flex-direction: row-reverse;
